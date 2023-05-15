@@ -1,6 +1,6 @@
 
 import smtplib
-from email.message import EmailMessage
+
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from datetime import datetime,timedelta
